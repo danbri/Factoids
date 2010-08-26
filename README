@@ -1,0 +1,13 @@
+Factoids
+
+This is intended as a collection of utilities relating to Web-based fact checking.
+
+In scope:
+
+* parsers, adaptors and scrapers for data sources; eg. snopes, politifact, debategraph, ...
+* glue to link to related info; eg. dbpedia, freebase, nndb, bbc news, journalisted
+* ui code, eg. so people posting comments are suggested relevant links to read before posting
+* other trust datasources, eg. advogato
+* see gerald's big list http://impressive.net/people/gerald/2005/08/reputation.html
+* account-oriented facts - http://lists.foaf-project.org/pipermail/foaf-protocols/2010-August/003449.html
+
