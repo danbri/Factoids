@@ -2,6 +2,8 @@ Factoids
 
 This is intended as a collection of utilities relating to Web-based fact checking.
 
+http://en.wikipedia.org/wiki/Factoid
+
 In scope:
 
 * parsers, adaptors and scrapers for data sources; eg. snopes, politifact, debategraph, ...
